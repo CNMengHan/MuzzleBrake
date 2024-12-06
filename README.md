@@ -17,7 +17,7 @@ This script utilizes the `pynput` library to listen to mouse events and the `cty
 
 - **Python 3.10** or higher
 - **pynput** library for mouse event handling
-- Windows OS (because `ctypes.windll.user32` is Windows-specific)
+- Windows 10/11 (because `ctypes.windll.user32` is Windows-specific)
 
 ### Install Required Libraries
 
